@@ -38,10 +38,6 @@
 <a href="https://www.instagram.com/__krushna_b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ragavkumarv" height="30" width="40" /></a>
 </p>
 
-
-- 👋 Hi, I’m @Krushna Biradar
-- 👀 I’m interested in programming, developing websites and apps.
-- 🌱 I’m currently learning full stack development {MERN}.
-- 💞️ I’m looking to collaborate on FSD related projects, building websites, UI/UX and apps.
 - 📫 Reach me via - email: krushnabiradar1998@gmail.com
+
 
