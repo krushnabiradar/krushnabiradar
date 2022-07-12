@@ -29,12 +29,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krushnabiradar&layout=compact&theme=radical&langs_count=6)
 
-<!-- <h3>Where to find me</h3> -->
-<!-- <p> -->
-<!-- <a href="https://github.com/krushnabiradar" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> -->
-<!-- <a href="https://twitter.com/__krushna_b" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
-<!-- <a href="https://www.linkedin.com/in/krushna-biradar/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/linkedin-0a66c2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
-<!-- </p> -->
 
 <h2 align="left">Connect with me ❤️</h2>
 <p align="left">
