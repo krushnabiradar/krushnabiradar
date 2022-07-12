@@ -5,3 +5,6 @@
 - 📫 Reach me via - email: krushnabiradar1998@gmail.com
 
 
+![snake gif](https://github.com/krushnabiradar/krushnabiradar/blob/output/github-contribution-grid-snake.gif)
+
+
