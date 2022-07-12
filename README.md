@@ -4,7 +4,10 @@
 - 💞️ I’m looking to collaborate on FSD related projects, building websites, UI/UX and apps.
 - 📫 Reach me via - email: krushnabiradar1998@gmail.com
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krushnabiradar)](https://github.com/krushnabiradar/github-readme-stats)
 
 ![snake gif](https://github.com/krushnabiradar/krushnabiradar/blob/output/github-contribution-grid-snake.gif)
+
+
 
 
