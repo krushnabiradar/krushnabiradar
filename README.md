@@ -1,7 +1,13 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I’m Krushna Biradar, from <img src="https://flagcdn.com/in.svg" width="18"/> <b>Latur, Maharastra.</b> I’m interested in programming, developing websites and apps. I’m currently learning full stack development {MERN} and I’m looking to collaborate on FSD related projects, building websites, UI/UX and apps. 
+<div id="header" align="center">
+   <h3>My Goal is to become a</h3>
+<img src="https://www.mindinventory.com/blog/wp-content/uploads/2021/06/mern-stack.png" alt="mern" height="100" />
+<h3>Stack developer</h3>
+</div>
+
+<p></br> I’m Krushna Biradar, from <img src="https://flagcdn.com/in.svg" width="18"/> <b>Latur, Maharastra.</b> I’m interested in programming, developing websites and apps. I’m currently learning full stack development {MERN} and I’m looking to collaborate on FSD related projects, building websites, UI/UX and apps. 
 
 ## ⚡ Things I code with
 
