@@ -1,5 +1,6 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5d08f42ea1e15f00016f7e14/1605714340505-O0VHXGLNBI8HWVZZEYBR/female-developer-vector.jpg">
 
 <div id="header" align="center">
    <h3>My Goal is to become a</h3>
