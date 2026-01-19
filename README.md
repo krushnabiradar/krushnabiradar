@@ -8,7 +8,11 @@
 <h3>Stack developer</h3>
 </div>
 
-<p></br> I’m Krushna Biradar, from <img src="https://flagcdn.com/in.svg" width="18"/> <b>Latur, Maharastra.</b> I’m interested in programming, developing websites and apps. I’m currently learning full stack development {MERN} and I’m looking to collaborate on FSD related projects, building websites, UI/UX and apps. 
+<p></br>Hello! I'm Krushna, a passionate full-stack developer with a year of professional experience. My journey in web development began during my studies, where I discovered my passion for creating digital experiences that are both functional and beautiful.
+
+During my professional experience, I've worked on a variety of projects ranging from e-commerce platforms to content management systems. I enjoy the process of translating design concepts into responsive, accessible web applications.
+
+When I'm not coding, you can find me exploring new technologies, contributing to open source projects, or enhancing my skills through online courses and tutorials.
 
 ## ⚡ Things I code with
 
